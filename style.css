@@ -55,7 +55,37 @@ nav a{
 }
 
 nav a:hover{
-    color:#4EA3FF;
+nav a{
+
+position:relative;
+
+}
+
+nav a::after{
+
+content:"";
+
+position:absolute;
+
+left:0;
+
+bottom:-6px;
+
+width:0;
+
+height:2px;
+
+background:#4EA3FF;
+
+transition:.3s;
+
+}
+
+nav a:hover::after{
+
+width:100%;
+
+}    color:#4EA3FF;
 }
 
 .hero{
