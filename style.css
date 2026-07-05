@@ -335,9 +335,17 @@ line-height:1.7;
 
 .card strong{
 
-font-size:36px;
+display:block;
+
+margin-top:20px;
+
+font-size:44px;
+
+font-weight:800;
 
 color:#2F80ED;
+
+}
 
 }
 
