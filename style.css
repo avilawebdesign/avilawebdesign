@@ -217,6 +217,20 @@ nav ul{
 }
 
 .logo{
+
+height:60px;
+
+transition:.35s;
+
+cursor:pointer;
+
+}
+
+.logo:hover{
+
+transform:scale(1.08) rotate(-2deg);
+
+}
     height:48px;
 }
 
