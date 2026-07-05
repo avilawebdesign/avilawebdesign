@@ -59,12 +59,87 @@ nav a:hover{
 }
 
 .hero{
-    min-height:100vh;
-    display:flex;
-    align-items:center;
-    text-align:center;
-    background:
-    radial-gradient(circle at top,#0b315e,#071B33);
+
+min-height:100vh;
+
+display:flex;
+
+align-items:center;
+
+text-align:center;
+
+background:
+linear-gradient(rgba(5,18,35,.82),rgba(5,18,35,.88)),
+radial-gradient(circle at top,#1c4f8f,#071B33);
+
+}min-height:100vh;
+
+display:flex;
+
+align-items:center;
+
+text-align:center;
+
+background:
+linear-gradient(rgba(5,18,35,.82),rgba(5,18,35,.88)),
+radial-gradient(circle at top,#1c4f8f,#071B33);
+
+}
+
+min-height:100vh;
+
+display:flex;
+
+align-items:center;
+
+text-align:center;
+
+background:
+linear-gradient(rgba(5,18,35,.82),rgba(5,18,35,.88)),
+radial-gradient(circle at top,#1c4f8f,#071B33);
+
+}
+
+min-height:100vh;
+
+display:flex;
+
+align-items:center;
+
+text-align:center;
+
+background:
+linear-gradient(rgba(5,18,35,.82),rgba(5,18,35,.88)),
+radial-gradient(circle at top,#1c4f8f,#071B33);
+
+}
+
+min-height:100vh;
+
+display:flex;
+
+align-items:center;
+
+text-align:center;
+
+background:
+linear-gradient(rgba(5,18,35,.82),rgba(5,18,35,.88)),
+radial-gradient(circle at top,#1c4f8f,#071B33);
+
+}
+
+min-height:100vh;
+
+display:flex;
+
+align-items:center;
+
+text-align:center;
+
+background:
+linear-gradient(rgba(5,18,35,.82),rgba(5,18,35,.88)),
+radial-gradient(circle at top,#1c4f8f,#071B33);
+
 }
 
 .hero h1{
@@ -279,5 +354,22 @@ transition:.3s;
 .whatsapp:hover{
 
 transform:scale(1.1);
+
+}
+.secundario{
+
+margin-left:20px;
+
+background:transparent;
+
+border:2px solid white;
+
+}
+
+.secundario:hover{
+
+background:white;
+
+color:#071B33;
 
 }
