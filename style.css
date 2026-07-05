@@ -1053,3 +1053,22 @@ grid-template-columns:1fr;
 }
 
 }
+.badge{
+
+display:inline-block;
+
+padding:10px 22px;
+
+border:1px solid rgba(255,255,255,.2);
+
+border-radius:50px;
+
+margin-bottom:25px;
+
+background:rgba(255,255,255,.05);
+
+font-size:14px;
+
+letter-spacing:2px;
+
+}
