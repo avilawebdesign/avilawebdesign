@@ -985,7 +985,65 @@ transition:.35s;
 box-shadow:0 20px 40px rgba(0,0,0,.18);
 
 }
+/*======================
+PORTFOLIO
+======================*/
 
+.portfolio{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+
+gap:30px;
+
+}
+
+.trabajo{
+
+background:white;
+
+border-radius:20px;
+
+overflow:hidden;
+
+color:#071B33;
+
+transition:.35s;
+
+box-shadow:0 20px 50px rgba(0,0,0,.18);
+
+}
+
+.trabajo:hover{
+
+transform:translateY(-10px);
+
+}
+
+.imagen{
+
+height:180px;
+
+background:linear-gradient(135deg,#2F80ED,#081c35);
+
+}
+
+.trabajo h3{
+
+padding:25px 25px 10px;
+
+font-size:24px;
+
+}
+
+.trabajo p{
+
+padding:0 25px 30px;
+
+line-height:1.7;
+
+}
 .paso:hover{
 
 transform:translateY(-8px);
