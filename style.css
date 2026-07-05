@@ -173,10 +173,19 @@ radial-gradient(circle at top,#1c4f8f,#071B33);
 }
 
 .hero h1{
-    font-size:64px;
-    line-height:1.1;
-    max-width:900px;
-    margin:auto;
+
+font-size:72px;
+
+font-weight:800;
+
+line-height:1.05;
+
+max-width:950px;
+
+margin:auto;
+
+margin-bottom:30px;
+
 }
 
 .hero p{
