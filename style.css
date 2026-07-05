@@ -815,5 +815,12 @@ grid-template-columns:1fr 1fr;
 grid-template-columns:1fr;
 
 }
+.wave{
 
+height:120px;
+
+background:
+linear-gradient(to bottom,#071B33,#081c35);
+
+}
 }
