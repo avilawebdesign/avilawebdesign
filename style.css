@@ -1130,3 +1130,38 @@ font-size:14px;
 letter-spacing:2px;
 
 }
+/*======================
+CTA
+======================*/
+
+.cta{
+
+padding:120px 0;
+
+text-align:center;
+
+background:linear-gradient(135deg,#081c35,#0d2544);
+
+}
+
+.cta h2{
+
+font-size:52px;
+
+max-width:900px;
+
+margin:auto;
+
+margin-bottom:25px;
+
+}
+
+.cta p{
+
+font-size:22px;
+
+color:#d3dceb;
+
+margin-bottom:45px;
+
+}
