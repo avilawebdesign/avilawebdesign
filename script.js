@@ -259,19 +259,6 @@ PREVENIR ENVÍO DEL FORMULARIO
 (HASTA CONECTARLO)
 =========================================*/
 
-const formulario=document.querySelector(".formulario");
-
-if(formulario){
-
-formulario.addEventListener("submit",(e)=>{
-
-e.preventDefault();
-
-alert("¡Gracias por contactar! Muy pronto conectaremos este formulario para que los mensajes lleguen directamente a tu correo.");
-
-});
-
-}
 
 
 /*=========================================
