@@ -81,10 +81,11 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             destino.scrollIntoView({
 
                 behavior:"smooth"
+       }
 
-            });
+    });
 
-        }
+});
 /*=========================================
 ANIMACIONES AL HACER SCROLL
 =========================================*/
