@@ -1360,3 +1360,22 @@ z-index:1;
 /*======================================
 FIN CSS
 ======================================*/
+@keyframes ripple{
+
+from{
+
+transform:scale(0);
+
+opacity:.6;
+
+}
+
+to{
+
+transform:scale(4);
+
+opacity:0;
+
+}
+
+}
