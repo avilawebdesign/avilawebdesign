@@ -323,6 +323,8 @@ flex-wrap:wrap;
 }
 
 .boton{
+position:relative;
+overflow:hidden;
 
 background:#2F80ED;
 
