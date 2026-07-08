@@ -1408,7 +1408,7 @@ PORTFOLIO
 
 .imagen{
 
-height:230px;
+height:260px;
 
 border-radius:16px;
 
@@ -1420,6 +1420,7 @@ background-position:center;
 
 transition:.4s;
 
+box-shadow:0 20px 50px rgba(0,0,0,.18);
 }
 
 .trabajo:hover .imagen{
