@@ -1480,3 +1480,64 @@ margin-bottom:20px;
 margin-bottom:15px;
 
 }
+/*=========================
+DEMO WEB
+=========================*/
+
+.demo-grid{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
+
+gap:30px;
+
+margin-top:60px;
+
+}
+
+.demo-item{
+
+background:#0d2747;
+
+padding:40px;
+
+border-radius:18px;
+
+text-align:center;
+
+transition:.35s;
+
+border:1px solid rgba(255,255,255,.06);
+
+}
+
+.demo-item:hover{
+
+transform:translateY(-10px);
+
+}
+
+.demo-item i{
+
+color:#2F80ED;
+
+margin-bottom:20px;
+
+}
+
+.demo-item h3{
+
+margin-bottom:15px;
+
+color:white;
+
+}
+
+.demo-item p{
+
+color:#d5dbe7;
+
+line-height:1.7;
+
+}
