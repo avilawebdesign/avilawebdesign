@@ -1566,3 +1566,68 @@ margin-bottom:20px;
 margin-bottom:15px;
 
 }
+/*=========================
+BARRA FIJA
+=========================*/
+
+.barra-fija{
+
+position:fixed;
+
+bottom:0;
+
+left:0;
+
+width:100%;
+
+background:#071B33;
+
+display:flex;
+
+justify-content:center;
+
+gap:20px;
+
+padding:15px;
+
+z-index:9999;
+
+box-shadow:0 -8px 25px rgba(0,0,0,.25);
+
+}
+
+.barra-fija a{
+
+text-decoration:none;
+
+padding:14px 28px;
+
+border-radius:10px;
+
+font-weight:700;
+
+transition:.3s;
+
+}
+
+.barra-whatsapp{
+
+background:#25D366;
+
+color:white;
+
+}
+
+.barra-presupuesto{
+
+background:#2F80ED;
+
+color:white;
+
+}
+
+.barra-fija a:hover{
+
+transform:translateY(-3px);
+
+}
