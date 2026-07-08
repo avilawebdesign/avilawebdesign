@@ -122,11 +122,11 @@ padding:20px 0;
 
 .logo{
 
-height:85px;
+height:80px;
 
 width:auto;
 
-transition:.3s;
+display:block;
 
 }
 
