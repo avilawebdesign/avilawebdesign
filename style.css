@@ -758,6 +758,8 @@ box-shadow:0 20px 60px rgba(0,0,0,.18);
 
 transform:translateY(-12px);
 
+box-shadow:0 35px 70px rgba(47,128,237,.25);
+
 }
 
 .imagen{
@@ -779,6 +781,7 @@ color:#071B33;
 }
 
 .trabajo p{
+min-height:70px;
 
 padding:0 25px 30px;
 
