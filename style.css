@@ -1653,3 +1653,34 @@ border:1px solid rgba(255,255,255,.08);
 color:#2F80ED;
 
 }
+/*=========================
+BOTÓN PORTFOLIO
+=========================*/
+
+.mini-boton{
+
+display:inline-block;
+
+margin:0 25px 30px;
+
+padding:12px 20px;
+
+background:#2F80ED;
+
+color:#fff;
+
+border-radius:8px;
+
+font-weight:700;
+
+transition:.3s;
+
+}
+
+.mini-boton:hover{
+
+background:#4b98ff;
+
+transform:translateY(-2px);
+
+}
