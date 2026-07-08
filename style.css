@@ -1003,13 +1003,13 @@ WHATSAPP
 
 position:fixed;
 
-right:30px;
+right:25px;
 
-bottom:30px;
+bottom:110px;
 
-width:70px;
+width:65px;
 
-height:70px;
+height:65px;
 
 border-radius:50%;
 
@@ -1025,15 +1025,21 @@ font-size:34px;
 
 color:white;
 
-box-shadow:0 15px 40px rgba(0,0,0,.30);
+text-decoration:none;
+
+box-shadow:0 15px 35px rgba(0,0,0,.28);
+
+z-index:9999;
 
 transition:.3s;
-
-z-index:999;
 
 }
 
 .whatsapp:hover{
+
+transform:scale(1.12);
+
+}
 
 transform:scale(1.1);
 
