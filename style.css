@@ -1379,3 +1379,26 @@ opacity:0;
 }
 
 }
+.lista-servicio{
+
+list-style:none;
+
+padding:20px 0;
+
+text-align:left;
+
+display:flex;
+
+flex-direction:column;
+
+gap:10px;
+
+}
+
+.lista-servicio li{
+
+font-size:.95rem;
+
+opacity:.95;
+
+}
