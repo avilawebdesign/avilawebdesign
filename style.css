@@ -1636,3 +1636,22 @@ body{
 padding-bottom:90px;
 
 }
+@media(max-width:700px){
+
+.barra-fija{
+
+flex-direction:column;
+
+gap:10px;
+
+padding:12px;
+
+}
+
+.barra-fija a{
+
+text-align:center;
+
+}
+
+}
