@@ -1541,3 +1541,28 @@ color:#d5dbe7;
 line-height:1.7;
 
 }
+/*=========================
+COMPROMISO
+=========================*/
+
+.compromiso .card{
+
+text-align:center;
+
+padding:40px 30px;
+
+}
+
+.compromiso i{
+
+color:#2F80ED;
+
+margin-bottom:20px;
+
+}
+
+.compromiso h3{
+
+margin-bottom:15px;
+
+}
