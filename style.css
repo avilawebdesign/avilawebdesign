@@ -1762,3 +1762,12 @@ line-height:1.7;
     margin-bottom:20px;
     letter-spacing:.5px;
 }
+.recomendada{
+    border:3px solid #2F80ED;
+    transform:scale(1.04);
+    box-shadow:0 20px 45px rgba(47,128,237,.25);
+}
+
+.recomendada:hover{
+    transform:translateY(-10px) scale(1.04);
+}
