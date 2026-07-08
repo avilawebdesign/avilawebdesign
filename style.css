@@ -122,9 +122,11 @@ padding:20px 0;
 
 .logo{
 
-height:65px;
+height:85px;
 
-transition:.35s;
+width:auto;
+
+transition:.3s;
 
 }
 
@@ -959,9 +961,9 @@ margin-bottom:50px;
 
 .logo-footer{
 
-height:70px;
+height:90px;
 
-margin-bottom:25px;
+width:auto;
 
 }
 
