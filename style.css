@@ -118,11 +118,14 @@ align-items:center;
 padding:10px 0;
 
 }
+
 .logo{
 
-height:90px;
+height:95px;
 
 width:auto;
+
+object-fit:contain;
 
 display:block;
 
