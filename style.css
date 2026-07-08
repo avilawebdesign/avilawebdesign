@@ -1429,33 +1429,33 @@ transform:scale(1.04);
 }
 .restaurante{
 
-background:
-linear-gradient(rgba(0,0,0,.25),rgba(0,0,0,.25)),
-linear-gradient(135deg,#f2994a,#f2c94c);
+background-image:
+linear-gradient(rgba(0,0,0,.15),rgba(0,0,0,.15)),
+url("img/restaurant.jpg");
 
 }
 
 .peluqueria{
 
-background:
-linear-gradient(rgba(0,0,0,.25),rgba(0,0,0,.25)),
-linear-gradient(135deg,#bb6bd9,#8e44ad);
+background-image:
+linear-gradient(rgba(0,0,0,.15),rgba(0,0,0,.15)),
+url("img/hair.jpg");
 
 }
 
 .clinica{
 
-background:
-linear-gradient(rgba(0,0,0,.25),rgba(0,0,0,.25)),
-linear-gradient(135deg,#56ccf2,#2f80ed);
+background-image:
+linear-gradient(rgba(0,0,0,.15),rgba(0,0,0,.15)),
+url("img/clinic.jpg");
 
 }
 
 .abogado{
 
-background:
-linear-gradient(rgba(0,0,0,.25),rgba(0,0,0,.25)),
-linear-gradient(135deg,#434343,#000000);
+background-image:
+linear-gradient(rgba(0,0,0,.15),rgba(0,0,0,.15)),
+url("img/lawyer.jpg");
 
 }
 .ventajas .card{
