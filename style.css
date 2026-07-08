@@ -1751,3 +1751,14 @@ color:#d7e0ea;
 line-height:1.7;
 
 }
+.popular{
+    display:inline-block;
+    background:#2F80ED;
+    color:#fff;
+    padding:8px 18px;
+    border-radius:30px;
+    font-size:.8rem;
+    font-weight:700;
+    margin-bottom:20px;
+    letter-spacing:.5px;
+}
