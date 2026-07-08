@@ -1402,3 +1402,28 @@ font-size:.95rem;
 opacity:.95;
 
 }
+/*==========================
+PORTFOLIO
+==========================*/
+
+.imagen{
+
+height:230px;
+
+border-radius:16px;
+
+margin-bottom:20px;
+
+background-size:cover;
+
+background-position:center;
+
+transition:.4s;
+
+}
+
+.trabajo:hover .imagen{
+
+transform:scale(1.04);
+
+}
