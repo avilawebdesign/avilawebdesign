@@ -91,7 +91,7 @@ ANIMACIONES AL HACER SCROLL
 =========================================*/
 
 const elementos = document.querySelectorAll(
-".card, .trabajo, .paso, .stat, .cta, .formulario, .demo-item, .compromiso .card"
+".card, .trabajo, .paso, .stat, .cta, .formulario, .demo-item, .compromiso .card, .porque-item"
 );
 
 const observador = new IntersectionObserver((entradas)=>{
