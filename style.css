@@ -1889,3 +1889,117 @@ MÓVILES PEQUEÑOS
     }
 
 }
+/*==================================================
+RESPONSIVE MÓVIL
+==================================================*/
+
+@media (max-width: 768px){
+
+    .topbar{
+        display:none;
+    }
+
+    header{
+        padding:10px 0;
+    }
+
+    .logo{
+        height:75px;
+    }
+
+    nav{
+        flex-direction:column;
+        gap:15px;
+    }
+
+    nav ul{
+        flex-wrap:wrap;
+        justify-content:center;
+        gap:15px;
+    }
+
+    .hero{
+        padding:140px 0 70px;
+    }
+
+    .hero-grid{
+        grid-template-columns:1fr;
+        text-align:center;
+        gap:35px;
+    }
+
+    .hero h1{
+        font-size:2.2rem;
+        line-height:1.2;
+    }
+
+    .hero p{
+        font-size:1rem;
+    }
+
+    .hero-botones{
+        flex-direction:column;
+        align-items:center;
+    }
+
+    .hero-card{
+        padding:30px;
+    }
+
+    .stats{
+        grid-template-columns:repeat(2,1fr);
+        gap:20px;
+    }
+
+    .cards,
+    .portfolio,
+    .pasos,
+    .footer-grid{
+        grid-template-columns:1fr;
+    }
+
+    .card,
+    .trabajo,
+    .paso{
+        padding:30px;
+    }
+
+    .seccion{
+        padding:70px 0;
+    }
+
+    h2{
+        font-size:2rem;
+    }
+
+    .contacto{
+        padding:35px 25px;
+    }
+
+    .whatsapp{
+        right:20px;
+        bottom:20px;
+    }
+
+}
+
+@media (max-width:480px){
+
+    .hero h1{
+        font-size:1.8rem;
+    }
+
+    h2{
+        font-size:1.6rem;
+    }
+
+    .stats{
+        grid-template-columns:1fr;
+    }
+
+    .boton{
+        width:100%;
+        text-align:center;
+    }
+
+}
