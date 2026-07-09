@@ -379,7 +379,7 @@ background:rgba(255,255,255,.08);
 
 border:1px solid rgba(255,255,255,.12);
 
-padding:45px;
+padding:28px;
 
 border-radius:22px;
 
@@ -416,7 +416,7 @@ SECCIONES
 
 .seccion{
 
-padding:120px 0;
+padding:70px 0;
 
 }
 
@@ -1424,23 +1424,6 @@ opacity:.95;
 PORTFOLIO
 ==========================*/
 
-.imagen{
-
-height:260px;
-
-border-radius:16px;
-
-margin-bottom:20px;
-
-background-size:cover;
-
-background-position:center;
-
-transition:.4s;
-
-box-shadow:0 20px 50px rgba(0,0,0,.18);
-}
-
 .trabajo:hover .imagen{
 
 transform:scale(1.04);
@@ -1750,17 +1733,6 @@ color:#d7e0ea;
 
 line-height:1.7;
 
-}
-.popular{
-    display:inline-block;
-    background:#2F80ED;
-    color:#fff;
-    padding:8px 18px;
-    border-radius:30px;
-    font-size:.8rem;
-    font-weight:700;
-    margin-bottom:20px;
-    letter-spacing:.5px;
 }
 .recomendada{
     border:3px solid #2F80ED;
