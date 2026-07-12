@@ -768,13 +768,13 @@ box-shadow:0 35px 70px rgba(47,128,237,.25);
 .imagen{
     width:100%;
     height:220px;
-    border-radius:22px 22px 0 0;
 
     background-repeat:no-repeat;
-    background-position:center;
-    background-size:cover;
+    background-position:center center !important;
+    background-size:contain !important;
 
-    overflow:hidden;
+    border-radius:22px 22px 0 0;
+    background-color:#f4f4f4;
 }
 
 .trabajo h3{
