@@ -769,7 +769,15 @@ box-shadow:0 35px 70px rgba(47,128,237,.25);
 
 height:220px;
 
-background:linear-gradient(135deg,#2F80ED,#0B2342);
+background-size:cover;
+
+background-position:center;
+
+background-repeat:no-repeat;
+
+border-radius:22px 22px 0 0;
+
+transition:.35s;
 
 }
 
@@ -1426,7 +1434,7 @@ PORTFOLIO
 
 .trabajo:hover .imagen{
 
-transform:scale(1.04);
+transform:scale(1.02);
 
 }
 .restaurante{
